@@ -1,0 +1,7 @@
+name: Posterboard
+main: com.ksanur.posterboard.Posterboard
+version: ${version}
+commands:
+  posterboard:
+    description: Create posterboards
+    aliases: [pb,poster]
